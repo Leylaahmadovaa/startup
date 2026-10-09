@@ -140,6 +140,8 @@ function App() {
       )
       .then((res) => res.json())
       .then((res) => res.results);
+      console.log(data);
+      
       setProducts(data);
       setLoading(false)
     }

@@ -17,7 +17,7 @@ export default function HomePage() {
               onClick={() => {
                 handleClick("6");
               }}
-              className="hover:cursor-pointer w-[400px] transition-all duration-500 h-[500px] bg-100% hover:bg-110% bg-center bg-cover bg-no-repeat bg-[url('https://mybrands.az/fit424x570/center/pages/1/web%20photo%20men.png')] flex flex-col items-center justify-end"
+              className="hover:cursor-pointer w-[400px] transition-all duration-500 h-[500px] bg-100% hover:bg-110% bg-center bg-cover bg-no-repeat bg-[url('https://images.unsplash.com/photo-1516826957135-700dedea698c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80')] flex flex-col items-center justify-end"
             >
               <h1 className="text-white font-bold text-[30px]">KİŞİLƏR</h1>
               <button className="bg-white hover:translate-y-[-5px] transition-all duration-500 w-[200px] h-[50px] font-bold mb-[50px] mt-[30px]">
@@ -30,7 +30,7 @@ export default function HomePage() {
               onClick={() => {
                 handleClick("3");                
               }}
-              className="hover:cursor-pointer w-[400px] transition-all duration-500 h-[500px] bg-100% hover:bg-110% bg-center bg-cover bg-no-repeat bg-[url('https://mybrands.az/fit424x570/center/pages/1/web%20photo%20women%20424x570.png')] flex flex-col items-center justify-end"
+              className="hover:cursor-pointer w-[400px] transition-all duration-500 h-[500px] bg-100% hover:bg-110% bg-center bg-cover bg-no-repeat bg-[url('https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80')] flex flex-col items-center justify-end"
             >
               <h1 className="text-white font-bold text-[30px]">QADINLAR</h1>
               <button className="bg-white hover:translate-y-[-5px] transition-all duration-500 w-[200px] h-[50px] font-bold mb-[50px] mt-[30px]">
@@ -39,7 +39,7 @@ export default function HomePage() {
             </div>
           </NavLink>
           <NavLink to="/usaqlar">
-            <div className="hover:cursor-pointer w-[400px] transition-all duration-500 h-[500px] bg-100% hover:bg-110% bg-center bg-cover bg-no-repeat bg-[url('https://mybrands.az/fit424x570/center/pages/1/web%20photo%20kids%20.png')] flex flex-col items-center justify-end">
+            <div className="hover:cursor-pointer w-[400px] transition-all duration-500 h-[500px] bg-100% hover:bg-110% bg-center bg-cover bg-no-repeat bg-[url('https://images.unsplash.com/photo-1519457431-44ccd64a579b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80')] flex flex-col items-center justify-end">
               <h1 className="text-white font-bold text-[30px]">UŞAQLAR</h1>
               <button className="bg-white  hover:translate-y-[-5px] transition-all duration-500 w-[200px] h-[50px] font-bold mb-[50px] mt-[30px]">
                 ALIŞ-VERİŞƏ KEÇ

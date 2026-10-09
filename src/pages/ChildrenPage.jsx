@@ -14,7 +14,7 @@ export default function ChildrenPage() {
         onClick={() => {
             handleClick("2");
           }}
-        className="hover:cursor-pointer pl-[70px] pb-[80px] h-[650px] w-[540px] bg-no-repeat bg-[url('https://mybrands.az/fit650x650/center/pages/45/2022.03.09_b.png')] flex flex-col justify-end gap-[40px]">
+        className="hover:cursor-pointer pl-[70px] pb-[80px] h-[650px] w-[540px] bg-no-repeat bg-[url('https://mybrands.az/2022.03.09_b.png')] flex flex-col justify-end gap-[40px]">
           <h1 className="text-[35px] text-white font-bold">OĞLANLAR ÜÇÜN</h1>
           <div className="bg-white cursor-pointer w-[115px] h-[60px] flex justify-center items-center font-bold text-[#131E38]">
             İNDİ AL
@@ -26,7 +26,7 @@ export default function ChildrenPage() {
         onClick={() => {
             handleClick("4");
           }}
-        className="hover:cursor-pointer pl-[70px] pb-[80px] h-[650px] w-[540px] bg-no-repeat bg-[url('https://mybrands.az/fit650x650/center/pages/45/2022.03.09_g.png')] flex flex-col justify-end gap-[40px]">
+        className="hover:cursor-pointer pl-[70px] pb-[80px] h-[650px] w-[540px] bg-no-repeat bg-[url('https://mybrands.az/2022.03.09_g.png')] flex flex-col justify-end gap-[40px]">
           <h1 className="text-[35px] text-white font-bold">QIZLAR ÜÇÜN</h1>
           <div className="bg-white cursor-pointer w-[115px] h-[60px] flex justify-center items-center font-bold text-[#131E38]">
             İNDİ AL
